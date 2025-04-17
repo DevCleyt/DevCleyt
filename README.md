@@ -24,6 +24,7 @@
 ✅ Web Front-end - Udemy  
 ✅ Javascript avançado - Udemy  
 ✅ Front-end em React - ADA  
+✅ Python - Fiap nano
 
 
 <!---
