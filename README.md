@@ -4,7 +4,7 @@
 - 👀 I'm interested in **Front-End Development, Web Development, and Software Engineering**  
 - 🚀 I'm currently learning **CloudSim, AWS, React, and Advanced JavaScript**  
 - 🤝 I'm looking to collaborate on **open-source projects**  
-- 📫 How to contact me: **[LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:pereiradossantoscleyton@gmail.com) | [GitHub](https://github.com/DevCleyt)**  
+- 📫 How to contact me: **[LinkedIn](https://www.linkedin.com/in/cleyton-pereira-santos-1b869a190/) | [Email](mailto:pereiradossantoscleyton@gmail.com) | [GitHub](https://github.com/DevCleyt)**  
 - 😊 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I started as a Nursing Technician, but my passion for technology led me to switch to Software Development!**
 - 💻 **Tecnologias e Ferramentas:**  
