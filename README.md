@@ -26,4 +26,5 @@
 ✅ Javascript avançado - Udemy  
 ✅ Front-end em React - ADA  
 ✅ Python - Fiap nano
+
 ✅ Santander 2025 - FRONT-END
