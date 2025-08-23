@@ -18,7 +18,8 @@
 
 🎓 **Formação:**  
 📌 Técnico em Enfermagem  
-📌 Graduando em **Análise e Desenvolvimento de Sistemas** (último semestre)  
+📌 Graduando em **Análise e Desenvolvimento de Sistemas** (Concluido)  
+📌 Pós-Graduação **FullStack development** (cursando)  
 
 🚀 **Cursos Concluídos:**  
 ✅ Web Front-end - Udemy  
@@ -26,9 +27,3 @@
 ✅ Front-end em React - ADA  
 ✅ Python - Fiap nano
 ✅ Santander 2025 - FRONT-END
-
-
-<!---
-DevCleyt/DevCleyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
