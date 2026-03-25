@@ -17,13 +17,16 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
 
 🎓 **Formação:**  
-📌 Técnico em Enfermagem  
 📌 Graduando em **Análise e Desenvolvimento de Sistemas** (Concluido)  
 📌 Pós-Graduação **FullStack development** (cursando)  
 
 🚀 **Cursos Concluídos:**  
 ✅ Web Front-end - Udemy  
-✅ Javascript avançado - Udemy  
-✅ Front-end em React - ADA  
+✅ Javascript avançado - Udemy
+✅ Javascript avançado - Origamid
+✅ React avançado - Origamid
+✅ UI/UX - Origamid
+✅ Front-end em React - ADA
+✅ NodeJs - Dio.me
 ✅ Python - Fiap nano
 ✅ FRONT-END - Santander 2025
