@@ -21,7 +21,7 @@
 📌 Pós-Graduação **FullStack development** (cursando)  
 
 🚀 **Cursos Concluídos:**  
-✅ Web Front-end - Udemy  
+✅ Web Front-end - Udemy
 ✅ Javascript avançado - Udemy
 ✅ Javascript avançado - Origamid
 ✅ React avançado - Origamid
