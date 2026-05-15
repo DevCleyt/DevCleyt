@@ -1,34 +1,66 @@
-# 👨‍💻 Welcome to my GitHub Profile!  
+# 👨‍💻 Cleyton Pereira dos Santos
 
-### 👋 Hi, I'm Cleyton Santos
-- 👀 I'm interested in **Front-End Development, Web Development, and Software Engineering**  
-- 🚀 I'm currently learning **CloudSim, AWS, React, and Advanced JavaScript**  
-- 🤝 I'm looking to collaborate on **open-source projects**  
-- 📫 How to contact me: **[LinkedIn](https://www.linkedin.com/in/cleyton-pereira-santos-1b869a190/) | [Email](mailto:pereiradossantoscleyton@gmail.com) | [GitHub](https://github.com/DevCleyt)**  
-- 😊 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I started as a Nursing Technician, but my passion for technology led me to switch to Software Development!**
-## 💻 Tecnologias e Ferramentas:
+### Desenvolvimento Python | Automação | Análise de Dados 🚀
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+Tecnólogo em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Python, automação de processos, análise de dados e desenvolvimento de soluções práticas. Atualmente aprimorando conhecimentos em Python, SQL, APIs, AWS e tecnologias orientadas à produtividade.
+
+---
+
+## 🚀 Atualmente estudando
+
+📚 Python Impressionador  
+📚 Análise de Dados Impressionador  
+📚 SQL Impressionador  
+📚 API de Inteligência Artificial  
+📚 AWS Impressionador  
+
+---
+
+## 💻 Tecnologias e Ferramentas
+
+### Linguagens e Desenvolvimento
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks e Bibliotecas
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 
-🎓 **Formação:**  
-📌 Graduando em **Análise e Desenvolvimento de Sistemas** (Concluido)  
-📌 Pós-Graduação **FullStack development** (cursando)  
+### Dados e Ferramentas
 
-🚀 **Cursos Concluídos:**  
-✅ Web Front-end - Udemy
-✅ Javascript avançado - Udemy
-✅ Javascript avançado - Origamid
-✅ React avançado - Origamid
-✅ UI/UX - Origamid
-✅ Front-end em React - ADA
-✅ NodeJs - Dio.me
-✅ Python - Fiap nano
-✅ FRONT-END - Santander 2025
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 🎓 Formação
+
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — Concluído
+
+---
+
+## 📌 Áreas de interesse
+
+✔ Desenvolvimento Python  
+✔ Automação de Processos  
+✔ Análise de Dados  
+✔ Integração de APIs  
+✔ Desenvolvimento Web  
+
+---
+
+## 📫 Contato
+
+🔗 LinkedIn: www.linkedin.com/in/cleyton-pereira-santos-1b869a190/
+
+📧 Email: pereiradossantoscleyton@gmail.com
+
+💻 GitHub: https://github.com/DevCleyt
