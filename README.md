@@ -8,11 +8,14 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas, com foco em desenvolviment
 
 ## 🚀 Atualmente estudando
 
-📚 Python Impressionador  
-📚 Análise de Dados Impressionador  
-📚 SQL Impressionador  
-📚 API de Inteligência Artificial  
-📚 AWS Impressionador  
+📚 Python | Pandas | NumPy
+📊 Análise de Dados | Power BI
+🗄️ SQL | Banco de Dados
+🤖 Inteligência Artificial | Agentes de IA
+⚙️ Automação de Processos | n8n
+☁️ AWS | Cloud
+🔗 APIs | Integrações
+🐙 Git | GitHub 
 
 ---
 
