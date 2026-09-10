@@ -1,91 +1,98 @@
 # 👨‍💻 Cleyton Pereira dos Santos
 
-### Desenvolvimento Python | Automação | Análise de Dados 🚀
+### Python • Análise de Dados • Automação • IA
 
-Tecnólogo em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Python, automação de processos, análise de dados e desenvolvimento de soluções práticas. Atualmente aprimorando conhecimentos em Python, SQL, APIs, AWS e tecnologias orientadas à produtividade.
+Tecnólogo em Análise e Desenvolvimento de Sistemas, com base em desenvolvimento web e foco atual em **Python, análise de dados, automação de processos, SQL, APIs e soluções com IA**.
 
----
-
-## 🚀 Atualmente estudando
-
-📚 Python | Pandas | NumPy
-📊 Análise de Dados | Power BI
-🗄️ SQL | Banco de Dados
-🤖 Inteligência Artificial | Agentes de IA
-⚙️ Automação de Processos | n8n
-☁️ AWS | Cloud
-🔗 APIs | Integrações
-🐙 Git | GitHub 
+Busco transformar problemas de negócio em soluções práticas, automatizando tarefas, tratando dados e gerando informações para apoiar decisões.
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 🚀 Principais competências
 
-### 🐍 Linguagens e Desenvolvimento
+- 🐍 **Python** — lógica, automação e análise de dados
+- 📊 **Pandas, NumPy e Matplotlib** — tratamento, análise e visualização
+- 🗄️ **SQL e bancos de dados** — em evolução contínua
+- 🤖 **IA e Agentes de IA** — integração e automação de processos
+- ⚙️ **n8n** — automação e integração de serviços
+- 🔗 **APIs** — integrações entre sistemas
+- 🐙 **Git e GitHub** — versionamento e organização de projetos
+- ☁️ **AWS** — estudos em Cloud
+- 🌐 **JavaScript, React e Node.js** — base de desenvolvimento web
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+---
 
-### 📊 Dados e Business Intelligence
+## ⭐ Projetos em destaque
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### 📊 Análise de Vendas de Rede de Lojas
+Projeto de análise exploratória de dados com **Python, Pandas, NumPy e Matplotlib**, envolvendo limpeza, tratamento, métricas de negócio, comparação de metas e geração de insights.
 
-### 🤖 Automação e Inteligência Artificial
+➡️ [Ver projeto](https://github.com/DevCleyt/Analise-de-dados-Vendas-loja)
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+### 🍫 Análise de Vendas de Chocolate
+Pipeline de análise de dados com tratamento de dados, indicadores comerciais, rankings, análise temporal e visualizações.
 
-### 🌐 Frameworks e Bibliotecas
+➡️ [Ver projeto](https://github.com/DevCleyt/Analise-de-dados-venda-chocolate)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 📦 Automação de Monitoramento de Estoque
+Automação com **n8n, Google Sheets, Gmail e XLSX** para identificar produtos abaixo do estoque mínimo e enviar automaticamente um relatório ao setor responsável.
 
-### 🔗 APIs, Versionamento e Cloud
+➡️ [Ver projeto](https://github.com/DevCleyt/Automa-o-de-processos-de-estoque-com-n8n)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+### 🤖 Agente de IA para Atendimento Imobiliário
+Agente de IA desenvolvido com **n8n**, integrado ao Gmail e Google Sheets, capaz de consultar imóveis, responder leads e registrar oportunidades em um CRM.
+
+➡️ [Ver projeto](https://github.com/DevCleyt/automacao-agente-ia-imobiliaria)
+
+### 🤖 Agente de IA para Atendimento Comercial
+Automação de atendimento por e-mail com **n8n, Gmail, Gemini e memória por thread**, voltada para respostas comerciais automatizadas.
+
+➡️ [Ver projeto](https://github.com/DevCleyt/Automa-o-agente-de-IA-e-mail-curso)
+
+---
+
+## 🧠 Em desenvolvimento
+
+```text
+Python
+  ├── Análise de Dados
+  ├── Automação
+  └── APIs
+
+Dados
+  ├── SQL
+  ├── Pandas / NumPy
+  └── Visualização
+
+Automação + IA
+  ├── n8n
+  ├── Agentes de IA
+  └── Integrações
+
+Cloud
+  └── AWS
+```
 
 ---
 
 ## 🎓 Formação
 
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — Concluído
+**Tecnólogo em Análise e Desenvolvimento de Sistemas** — Concluído
 
 ---
 
-## 📌 Áreas de interesse
+## 🛠️ Tecnologias
 
-✔ Desenvolvimento Python  
-✔ Automação de Processos  
-✔ Análise de Dados  
-✔ Business Intelligence (Power BI)  
-✔ Integração de APIs  
-✔ Desenvolvimento Web  
-
----
-
-## 🚀 Projetos em desenvolvimento
-
-📊 Análise de Dados com Python  
-🤖 Automação de Processos  
-🌐 Integração de APIs  
-📈 Dashboards e Visualização de Dados  
-💻 Aplicações Web  
+**Python · Pandas · NumPy · Matplotlib · SQL · JavaScript · React · Node.js · n8n · APIs · Git · GitHub · AWS · Power BI**
 
 ---
 
 ## 📫 Contato
 
-🔗 LinkedIn: https://www.linkedin.com/in/cleyton-pereira-santos-1b869a190/
+- 💼 [LinkedIn](https://www.linkedin.com/in/cleyton-pereira-santos-1b869a190/)
+- 💻 [GitHub](https://github.com/DevCleyt)
+- 📧 pereiradossantoscleyton@gmail.com
 
-📧 Email: pereiradossantoscleyton@gmail.com
+---
 
-💻 GitHub: https://github.com/DevCleyt
+> 🚀 **Objetivo:** construir soluções que unam desenvolvimento, dados, automação e inteligência artificial para resolver problemas reais de negócio.
