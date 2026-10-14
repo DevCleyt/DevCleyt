@@ -18,9 +18,11 @@ Meu foco é transformar necessidades operacionais e comerciais em soluções pr�
 - Trabalho com soluções de atendimento automatizado, chatbots, WhatsApp e réguas de comunicação.
 - Apoio à integração com CRMs e ao fluxo de dados de leads e oportunidades.
 - Monitoramento de execuções, identificação de falhas e apoio à melhoria contínua dos fluxos.
-- Análise de informações e indicadores para apoiar o acompanhamento operacional e comercial.
+- Extração, tratamento, organização e análise de dados com **Python**, preparando informações para gerar indicadores e apoiar decisões.
+- Construção e análise de indicadores e visualizações no **Power BI**, facilitando o acompanhamento operacional e comercial.
+- Análise de informações para identificar oportunidades de melhoria e apoiar decisões baseadas em dados.
 
-**Tecnologias e plataformas relacionadas à atuação:** n8n, Typebot, Make, Zapier, Z-API, APIs, CRMs e ferramentas de IA.
+**Tecnologias e plataformas relacionadas à atuação:** Python, Power BI, n8n, Typebot, Make, Zapier, Z-API, APIs, CRMs e ferramentas de IA.
 
 > Esta seção descreve as frentes de atuação da função; os projetos e resultados específicos podem ser adicionados conforme forem documentados e autorizados para divulgação.
 
@@ -28,9 +30,9 @@ Meu foco é transformar necessidades operacionais e comerciais em soluções pr�
 
 ## 🎯 Foco profissional
 
-**Automação + Dados + Python + IA**
+**Automação + Dados + Python + Power BI + IA**
 
-Estou consolidando minha experiência em automação aplicada a processos reais de negócio, combinando lógica de programação, integrações, tratamento de dados e ferramentas de inteligência artificial.
+Atuo também no fluxo de dados: extraio informações, realizo o tratamento e a análise com Python e utilizo o Power BI para explorar indicadores e apresentar os resultados de forma visual. Combino essa frente com automação de processos, integrações e ferramentas de inteligência artificial.
 
 ---
 
@@ -87,12 +89,12 @@ Projeto de análise de dados com tratamento, indicadores comerciais, rankings, a
 
 - ⚙️ **Automação de processos** — criação, manutenção e acompanhamento de fluxos
 - 🔗 **APIs e integrações** — comunicação entre plataformas e serviços
-- 🐍 **Python** — lógica, automação e análise de dados
+- 🐍 **Python** — extração, tratamento, transformação e análise de dados, além de automação
 - 📊 **Pandas, NumPy e Matplotlib** — tratamento, análise e visualização
 - 🤖 **IA e agentes de IA** — integração de modelos em fluxos automatizados
 - 🗄️ **SQL e bancos de dados** — em desenvolvimento contínuo
 - 🐙 **Git e GitHub** — versionamento e organização de projetos
-- 📈 **Power BI** — construção de visualizações e análise de indicadores
+- 📈 **Power BI** — análise de dados, construção de dashboards e acompanhamento de indicadores
 - ☁️ **AWS** — estudos em Cloud
 - 🌐 **JavaScript, React e Node.js** — base de desenvolvimento web
 
@@ -130,7 +132,7 @@ Cloud
 
 ## 🛠️ Tecnologias
 
-**Python · Pandas · NumPy · Matplotlib · SQL · n8n · APIs · Webhooks · Typebot · Make · Zapier · Z-API · IA · Power BI · JavaScript · React · Node.js · Git · GitHub · AWS**
+**Python · Pandas · NumPy · Matplotlib · Power BI · SQL · n8n · APIs · Webhooks · Typebot · Make · Zapier · Z-API · IA · JavaScript · React · Node.js · Git · GitHub · AWS**
 
 ---
 
