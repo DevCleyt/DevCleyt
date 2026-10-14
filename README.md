@@ -10,7 +10,7 @@ Meu foco é transformar necessidades operacionais e comerciais em soluções pr�
 
 ## 💼 Experiência profissional
 
-### Assistente de Automação — Workshop Corban 360
+### Assistente de Automação e Dados — Gerando Resultados
 **Atuação atual | Processos, Operações e Tecnologia**
 
 - Desenvolvimento e manutenção de fluxos de automação para apoiar operações e processos comerciais.
