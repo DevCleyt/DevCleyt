@@ -1,147 +1,128 @@
-# 👨‍💻 Cleyton Pereira dos Santos
+# Cleyton Pereira dos Santos
 
-### Automação de Processos • Python • Dados • IA
+### Dados · Business Intelligence · Automação de Processos
 
-Tecnólogo em Análise e Desenvolvimento de Sistemas, atuando profissionalmente com **automação de processos** e direcionando minha evolução técnica para **Python, análise de dados, APIs, integrações e soluções com IA**.
+Tecnólogo em **Análise e Desenvolvimento de Sistemas** e profissional de **Automação e Dados**. Atuo no desenvolvimento de integrações entre sistemas, automação de processos e transformação de dados em indicadores para apoiar operações e decisões comerciais.
 
-Meu foco é transformar necessidades operacionais e comerciais em soluções práticas: integrar sistemas, automatizar tarefas repetitivas, acompanhar a execução dos fluxos e utilizar dados para apoiar decisões e melhorias de processo.
+Trabalho com **Python, Power BI, SQL, n8n e APIs**, combinando análise de dados, Business Intelligence, automação e inteligência artificial aplicada a problemas de negócio.
 
----
-
-## 💼 Experiência profissional
-
-### Assistente de Automação e Dados — Gerando Resultados
-**Atuação atual | Processos, Operações e Tecnologia**
-
-- Desenvolvimento e manutenção de fluxos de automação para apoiar operações e processos comerciais.
-- Integração entre plataformas por meio de APIs e ferramentas de automação.
-- Trabalho com soluções de atendimento automatizado, chatbots, WhatsApp e réguas de comunicação.
-- Apoio à integração com CRMs e ao fluxo de dados de leads e oportunidades.
-- Monitoramento de execuções, identificação de falhas e apoio à melhoria contínua dos fluxos.
-- Extração, tratamento, organização e análise de dados com **Python**, preparando informações para gerar indicadores e apoiar decisões.
-- Construção e análise de indicadores e visualizações no **Power BI**, facilitando o acompanhamento operacional e comercial.
-- Análise de informações para identificar oportunidades de melhoria e apoiar decisões baseadas em dados.
-
-**Tecnologias e plataformas relacionadas à atuação:** Python, Power BI, n8n, Typebot, Make, Zapier, Z-API, APIs, CRMs e ferramentas de IA.
-
-> Esta seção descreve as frentes de atuação da função; os projetos e resultados específicos podem ser adicionados conforme forem documentados e autorizados para divulgação.
+[LinkedIn](https://www.linkedin.com/in/cleyton-pereira-santos-1b869a190/) · [GitHub](https://github.com/DevCleyt) · [E-mail](mailto:pereiradossantoscleyton@gmail.com)
 
 ---
 
-## 🎯 Foco profissional
+## Experiência profissional
 
-**Automação + Dados + Python + Power BI + IA**
+### Assistente de Automação e Dados | Gerando Resultados
+**Outubro de 2026 – atual**
 
-Atuo também no fluxo de dados: extraio informações, realizo o tratamento e a análise com Python e utilizo o Power BI para explorar indicadores e apresentar os resultados de forma visual. Combino essa frente com automação de processos, integrações e ferramentas de inteligência artificial.
+- Desenvolvimento e manutenção de automações para captura, tratamento, atualização e movimentação de dados de leads entre plataformas e CRMs.
+- Integração de sistemas por APIs e ferramentas como n8n, Make e Typebot, apoiando processos comerciais e operacionais.
+- Extração, organização e análise de dados com Python e construção de indicadores e visualizações no Power BI.
+- Monitoramento de execuções, identificação de falhas e ajustes em fluxos, com foco na consistência das informações e na redução de atividades manuais.
 
----
+### Experiência anterior em Saúde
 
-## ⭐ Projetos em destaque
-
-### 1. 📦 Automação de Monitoramento de Estoque
-Automação com **n8n, Google Sheets, Gmail e XLSX** que identifica produtos abaixo do estoque mínimo, gera um relatório e envia automaticamente ao setor responsável.
-
-➡️ [Ver projeto](https://github.com/DevCleyt/Automa-o-de-processos-de-estoque-com-n8n)
-
-### 2. 🤖 Agente de IA para Atendimento Imobiliário
-Agente desenvolvido com **n8n, Gemini, DeepSeek, Gmail e Google Sheets**, capaz de consultar imóveis, responder leads e registrar oportunidades em um CRM.
-
-➡️ [Ver projeto](https://github.com/DevCleyt/automacao-agente-ia-imobiliaria)
-
-### 3. 🤖 Agente de IA para Atendimento Comercial
-Automação de atendimento por e-mail utilizando **n8n, Gmail, Gemini e memória por thread**, estruturada para responder leads de forma automatizada.
-
-➡️ [Ver projeto](https://github.com/DevCleyt/Automa-o-agente-de-IA-e-mail-curso)
-
-### 4. 📊 Análise de Vendas — Rede de Lojas
-Projeto de análise exploratória de dados com **Python, Pandas, NumPy e Matplotlib**, envolvendo limpeza, tratamento, métricas de negócio, comparação de metas e geração de insights.
-
-➡️ [Ver projeto](https://github.com/DevCleyt/Analise-de-dados-Vendas-loja)
-
-### 5. 🍫 Análise de Vendas — Chocolate
-Projeto de análise de dados com tratamento, indicadores comerciais, rankings, análise temporal e visualizações para apoiar a interpretação dos resultados de vendas.
-
-➡️ [Ver projeto](https://github.com/DevCleyt/Analise-de-dados-venda-chocolate)
+Atuação como Técnico de Enfermagem na Amparo Saúde e na Sami Saúde. Experiência com atendimento, acompanhamento de pacientes, registro estruturado de informações, elaboração de relatórios, controle de estoque e organização de processos. Essa trajetória contribui para o cuidado com a qualidade dos registros, a confidencialidade das informações e a comunicação com diferentes equipes.
 
 ---
 
-## 🧩 Projetos por área
+## Projetos de dados e Business Intelligence
 
-### ⚙️ Automação
-- [Monitoramento Automático de Estoque com n8n](https://github.com/DevCleyt/Automa-o-de-processos-de-estoque-com-n8n)
+### Dashboard de prospecção e Social Selling
+**Power BI · Indicadores comerciais · Análise temporal**
 
-### 🤖 IA + Automação
-- [Agente de IA para Atendimento Imobiliário](https://github.com/DevCleyt/automacao-agente-ia-imobiliaria)
-- [Agente de IA para Atendimento Comercial](https://github.com/DevCleyt/Automa-o-agente-de-IA-e-mail-curso)
+Painel para acompanhar prospecção, contatos orgânicos, contatos por WhatsApp e reuniões agendadas. Reúne evolução diária, desempenho por responsável e filtros de período para apoiar o acompanhamento comercial.
 
-### 📊 Dados
-- [Análise de Vendas — Rede de Lojas](https://github.com/DevCleyt/Analise-de-dados-Vendas-loja)
-- [Análise de Vendas — Chocolate](https://github.com/DevCleyt/Analise-de-dados-venda-chocolate)
+### Dashboard de análise mensal de marketing
+**Power BI · Indicadores de campanhas · Custo por lead**
 
-### 🌐 Base de desenvolvimento
+Painel com investimento, volume de leads, CPL e média diária de leads. Permite explorar resultados por período, produto, formato e segmentação, além de identificar registros sem leads.
+
+### Análise de vendas de uma rede de lojas
+**Python · Pandas · NumPy · Matplotlib · Jupyter Notebook**
+
+Análise exploratória com tratamento de valores nulos, padronização de datas, remoção de duplicidades e integração de bases de vendas, lojas e metas. Inclui faturamento por loja e região, produtos mais vendidos, comparação com metas e evolução mensal.
+
+[Ver repositório](https://github.com/DevCleyt/Analise-de-dados-Vendas-loja)
+
+### Análise de vendas de chocolate
+**Python · Pandas · NumPy · Matplotlib · Jupyter Notebook**
+
+Tratamento de dados comerciais, conversão de datas e valores financeiros e construção de indicadores de vendas. Explora produtos, desempenho comercial, faturamento por país e evolução das vendas ao longo do tempo.
+
+[Ver repositório](https://github.com/DevCleyt/Analise-de-dados-venda-chocolate)
+
+---
+
+## Projetos de automação e inteligência artificial
+
+### Relatórios automatizados de desempenho de campanhas
+**n8n · JavaScript · APIs · Google Sheets · IA generativa**
+
+Fluxos agendados para extração e consolidação de dados de mídia paga, com cálculo de investimento, leads, CPL e conversão. Incluem validação de métricas, controle de duplicidades, comparação entre semanas e identificação de variações de desempenho. Integram atualização de planilhas, geração de análises com IA e envio automatizado de relatórios.
+
+### Agente de IA para atendimento imobiliário
+**n8n · Gemini · DeepSeek · Gmail · Google Sheets**
+
+Agente que interpreta e-mails, consulta um catálogo de imóveis, responde aos interessados e registra oportunidades em uma base de CRM. Utiliza memória por conversa e um modelo alternativo em caso de falha para apoiar a continuidade do primeiro atendimento.
+
+[Ver repositório](https://github.com/DevCleyt/automacao-agente-ia-imobiliaria)
+
+### Agente de IA para atendimento comercial
+**n8n · Gemini · Gmail · Memória por conversa**
+
+Automação de atendimento por e-mail com respostas contextualizadas, memória por thread e regras de comunicação para apoiar o primeiro contato com leads.
+
+[Ver repositório](https://github.com/DevCleyt/Automa-o-agente-de-IA-e-mail-curso)
+
+### Monitoramento automático de estoque
+**n8n · Google Sheets · Gmail · Excel**
+
+Automação diária que compara o saldo dos produtos com o estoque mínimo, identifica itens críticos, gera relatório em Excel e envia por e-mail ao setor responsável. Automatiza a conferência e a comunicação para reposição.
+
+[Ver repositório](https://github.com/DevCleyt/Automa-o-de-processos-de-estoque-com-n8n)
+
+---
+
+## Competências técnicas
+
+| Área | Tecnologias e práticas |
+| --- | --- |
+| Análise de dados | Python, Pandas, NumPy, Excel e análise exploratória |
+| Business Intelligence | Power BI, DAX, modelagem de dados e indicadores |
+| Bancos de dados | SQL, MySQL e DuckDB |
+| Automação e integrações | n8n, Make, Typebot, APIs REST, webhooks, Selenium e JavaScript |
+| IA aplicada | Agentes de IA, integração de modelos de linguagem, memória e fallback |
+| Visualização | Matplotlib, Plotly, Streamlit e Jupyter Notebook |
+| Versionamento | Git e GitHub |
+| Cloud | Fundamentos de AWS |
+
+---
+
+## Formação
+
+**Tecnólogo em Análise e Desenvolvimento de Sistemas**  
+Universidade Anhanguera · Fevereiro de 2023 – Julho de 2025 · Concluído
+
+**Técnico em Enfermagem**  
+Colégio Nove de Julho · Fevereiro de 2018 – Julho de 2019
+
+**Inglês intermediário**
+
+---
+
+## Outros projetos
+
+Minha base de desenvolvimento web também está representada nos projetos:
+
 - [Portfólio Pessoal](https://github.com/DevCleyt/Portif-lio-Pessoal)
 - [Mario Kart](https://github.com/DevCleyt/mario-kart)
 - [Animais Fantásticos](https://github.com/DevCleyt/Animais-fantasticos)
 
 ---
 
-## 🚀 Principais competências
+## Contato
 
-- ⚙️ **Automação de processos** — criação, manutenção e acompanhamento de fluxos
-- 🔗 **APIs e integrações** — comunicação entre plataformas e serviços
-- 🐍 **Python** — extração, tratamento, transformação e análise de dados, além de automação
-- 📊 **Pandas, NumPy e Matplotlib** — tratamento, análise e visualização
-- 🤖 **IA e agentes de IA** — integração de modelos em fluxos automatizados
-- 🗄️ **SQL e bancos de dados** — em desenvolvimento contínuo
-- 🐙 **Git e GitHub** — versionamento e organização de projetos
-- 📈 **Power BI** — análise de dados, construção de dashboards e acompanhamento de indicadores
-- ☁️ **AWS** — estudos em Cloud
-- 🌐 **JavaScript, React e Node.js** — base de desenvolvimento web
-
----
-
-## 🧠 Em desenvolvimento
-
-```text
-Automação
-  ├── n8n e integrações
-  ├── APIs e webhooks
-  └── Monitoramento e melhoria de fluxos
-
-Dados
-  ├── Python / Pandas / NumPy
-  ├── SQL
-  └── Visualização e indicadores
-
-Automação + IA
-  ├── Agentes de IA
-  ├── Atendimento automatizado
-  └── Integrações com ferramentas de negócio
-
-Cloud
-  └── AWS
-```
-
----
-
-## 🎓 Formação
-
-**Tecnólogo em Análise e Desenvolvimento de Sistemas** — Concluído
-
----
-
-## 🛠️ Tecnologias
-
-**Python · Pandas · NumPy · Matplotlib · Power BI · SQL · n8n · APIs · Webhooks · Typebot · Make · Zapier · Z-API · IA · JavaScript · React · Node.js · Git · GitHub · AWS**
-
----
-
-## 📫 Contato
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/cleyton-pereira-santos-1b869a190/)
-- 💻 [GitHub](https://github.com/DevCleyt)
-- 📧 pereiradossantoscleyton@gmail.com
-
----
-
-> 🚀 **Objetivo:** evoluir continuamente na criação de soluções de automação, integração e análise de dados que melhorem processos e resolvam problemas reais de negócio.
+- [LinkedIn](https://www.linkedin.com/in/cleyton-pereira-santos-1b869a190/)
+- [GitHub](https://github.com/DevCleyt)
+- [pereiradossantoscleyton@gmail.com](mailto:pereiradossantoscleyton@gmail.com)
