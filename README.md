@@ -28,6 +28,13 @@ Atuação como Técnico de Enfermagem na Amparo Saúde e na Sami Saúde. Experi�
 
 ## Projetos de dados e Business Intelligence
 
+### Dashboard de vendas — Eletro
+**Power BI · Análise de vendas · Indicadores comerciais**
+
+Dashboard interativo para visualização e análise de dados de vendas do segmento de eletrodomésticos.
+
+[Visualizar dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNmJjMjkwODUtOTBkMC00YTUzLThlM2QtOTI3M2M3MGFmYzE1IiwidCI6ImNjMTBjODQ2LTA4YTAtNDUwYi04MWY0LWEzNzFlYmMyZTZlMSJ9)
+
 ### Dashboard de prospecção e Social Selling
 **Power BI · Indicadores comerciais · Análise temporal**
 
